@@ -1,4 +1,4 @@
-arr=['ABC','DEC','GHI','JKL','MNO','PQRS','TUV','WXYZ']
+arr=['ABC','DEF','GHI','JKL','MNO','PQRS','TUV','WXYZ']
 a=input()
 result=0
 for i in range(len(a)):
